@@ -1,4 +1,4 @@
-# Low Rank Training for Deep Neural Networks on Emerging Memory Technology
+# Low Rank Training of Deep Neural Networks for Emerging Memory Technology
 
 This directory contains files associated with low rank training research. There are two primary development paths: a PyTorch version for fast batch training to test high-level ideas in `pytorch` and a NumPy version for implementing low rank training in `lr`. Runs of either path produce debug output files in `analysis` and scripts in that folder allow for interesting analysis of training behavior.
 
