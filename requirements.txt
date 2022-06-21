@@ -11,7 +11,7 @@ jupyterlab==0.31.5
 jupyterlab-launcher==0.10.2
 matplotlib==3.0.2
 numba==0.44.1
-numpy==1.15.4
+numpy==1.22.0
 opencv-python==4.1.1.26
 profilehooks==1.11.0
 scikit-image==0.13.1
